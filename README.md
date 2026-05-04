@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Barzan Raza
+# 👋 Hi, I'm Barzan
 
 ### 💻 Back-End Engineer | 6+ Years Experience
 
