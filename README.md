@@ -52,7 +52,6 @@ I’m a results-driven back-end engineer with a strong focus on building scalabl
 
 ## 📫 Contact Me
 
-* 📧 Email: [barzan.raza96@gmail.com](mailto:barzan.raza96@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/barzanraza
 
 ---
